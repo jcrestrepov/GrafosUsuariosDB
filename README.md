@@ -1,11 +1,23 @@
-# Base de datos  #
+# Descripcion #
+Se realiza un proyecto de base de datos con la finalidad  de ejecutar  busqueda de usuarios y asi facilitar la  busqueda de informacion y relaciones entre usuarios.
+
+![image description or alt text](https://raw.githubusercontent.com/jcrestrepov/GrafosUsuariosDB/main/media/modo%20grafico.png)
+
+# Creacion de la base de datos #
+comenzamos creando la base de datos en mysql(phpmyadmin) por el modo grafico. esta  tambien puede ser creada  desde la consola usando (querys) para crear base de datos.
+
+
+## Base de datos  ##
+ como efectuar la busqueda desde la consola 
 
 ![image description or alt text](https://raw.githubusercontent.com/jcrestrepov/GrafosUsuariosDB/main/media/pantallaso%20consola.png)
 
 
 ![image description or alt text](https://raw.githubusercontent.com/jcrestrepov/GrafosUsuariosDB/main/media/pantallaso%20consola1.png)
 
- ## Busqueda en la base de datos ##
+ # Busqueda en la consola #
+ podemos observar los comandos de busqueda (query) que debemos ejecutar para realizar la busqueda . Dicha busqueda la realizamos desde la consola.
+
 cd..=para devolvernos en las carpetas 
 cd xampp= avanzar en las carpetas 
 cd mysql
@@ -20,15 +32,21 @@ mysql -u root -h localhost -p
 - select* from (nombre de la tabla que queremos ver) where (columna que sea primary key)=(fila); =>veremos un dato exacto que necesitemos.
 - select (nombre de columna) from(nombre de la tabla); => veremos las columnas determinadas que seleccionemos. 
 
-## Prueba ##
- tenemos el ejecutable y toda su linea de codigo de la base de datos.
+# Aplicacion en java #
+![image description or alt text](https://raw.githubusercontent.com/jcrestrepov/GrafosUsuariosDB/main/media/apiingreso%20datos.png)
 
-lo podemos buscar en :
+
+![image description or alt text](https://raw.githubusercontent.com/jcrestrepov/GrafosUsuariosDB/main/media/apiinfo.png)
+## Prueba ##
+ tenemos el ejecutable el cual consiste en igresar los datos de un nuevo usuario. tambien podemos modificar, eliminar y realizar busquedas especificas.
+ 
+ 
+ toda la linea de codigo de la base de datos la podemos buscar en :
 ''
 src/relaciones
 ''
 
-## base de datos mysql##
+## base de datos mysql ##
 esta base de datos tiene funcionalidad en mysql (http://localhost/phpmyadmin/index.php?route=/database/structure&server=1&db=relaciones) realizadas
 
 ## Autor ##

@@ -1,9 +1,9 @@
 # Base de datos  #
 
- <img src = " media / pantallaso consola.png"  alt = "imagen" style = "width: 200px;" />
+![image description or alt text](https://raw.githubusercontent.com/jcrestrepov/GrafosUsuariosDB/main/media/pantallaso%20consola.png)
 
 
- <img src = " media / pantallaso consola1.png"  alt = "imagen" style = "width: 200px;" />
+![image description or alt text](https://raw.githubusercontent.com/jcrestrepov/GrafosUsuariosDB/main/media/pantallaso%20consola1.png)
 
  ## Busqueda en la base de datos ##
 cd..=para devolvernos en las carpetas 

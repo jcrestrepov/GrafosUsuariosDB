@@ -1,9 +1,9 @@
-# Descripcion #
-Se realiza un proyecto de base de datos con la finalidad  de ejecutar  busqueda de usuarios y asi facilitar la  busqueda de informacion y relaciones entre usuarios.
+# Descripción #
+Se realiza un proyecto de base de datos con la finalidad  de ejecutar una búsqueda de usuarios y así facilitar la  informacion y relaciones entre usuarios.
 
 ![image description or alt text](https://raw.githubusercontent.com/jcrestrepov/GrafosUsuariosDB/main/media/modo%20grafico.png)
 
-# Creacion de la base de datos #
+# Creación de la base de datos #
 comenzamos creando la base de datos en mysql(phpmyadmin) por el modo grafico. esta  tambien puede ser creada  desde la consola usando (querys) para crear base de datos.
 
 
